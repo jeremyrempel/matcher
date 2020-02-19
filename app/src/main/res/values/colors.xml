@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#567CD2</color>
+    <color name="colorPrimaryDark">#3C61C0</color>
+    <color name="colorAccent">#567CD2</color>
+    <color name="colorTextOnPrimary">#fff</color>
+    <color name="colorTabSelected">#fff</color>
+    <color name="colorTabNotSelected">#AEC0E7</color>
+    <color name="background">#E9EBF0</color>
+    <color name="textColor">#000</color>
+    <color name="cardSelectedBg">#FFFEB2</color>
+    <color name="cardUnselectedBg">#fff</color>
+</resources>

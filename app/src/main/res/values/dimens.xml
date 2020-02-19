@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_1">2dp</dimen>
+    <dimen name="space_2">12dp</dimen>
+    <dimen name="photo_height">200dp</dimen>
+    <dimen name="user_card_margin">10dp</dimen>
+</resources>

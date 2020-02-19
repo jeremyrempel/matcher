@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Matcher</string>
+    <string name="title_search">Search</string>
+    <string name="title_special_blend">Special Blend</string>
+    <string name="title_match">Match %</string>
+    <string name="match">%1$d%% Match</string>
+    <string name="user_photo">User Photo</string>
+</resources>
